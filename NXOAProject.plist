@@ -23,7 +23,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.itouyun.com/ios/OAProduct2_0_2.ipa</string>
+                    <string>http://www.itouyun.com/ios/OAProduct2_0_3.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -47,7 +47,7 @@
                 <key>bundle-identifier</key>
                 <string>com.NuoXinGroup.OAProject</string>
                 <key>bundle-version</key>
-                <string>2.0.2</string>
+                <string>2.0.3</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
