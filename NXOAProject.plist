@@ -23,7 +23,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.itouyun.com/ios/OAProduct.ipa</string>
+                    <string>http://oa.xinerxing.com/ios/OAProduct.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -31,7 +31,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://www.itouyun.com/ios/image.512x512.png</string>
+                    <string>http://oa.xinerxing.com/ios/image512x512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -39,7 +39,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://www.itouyun.com/ios/image.57x57.png</string>
+                    <string>http://oa.xinerxing.com/ios/image57x57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -53,7 +53,7 @@
                 <key>subtitle</key>
                 <string>移动办公系统</string>
                 <key>title</key>
-                <string>口袋诺诺</string>
+                <string>信而行</string>
             </dict>
         </dict>
     </array>
